@@ -3,8 +3,9 @@ public class Hello{
 	public static void main(String args[]){
 		System.out.println("Hello Welcome to DevOps Lab");
 		System.out.println("Krishneswari Seelam");
-		System.out.println("Srujanaa");
+		System.out.println("Srujana");
 	}
 
 }
+
 
